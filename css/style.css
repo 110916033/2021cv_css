@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(157, 185, 185);
+}
+.top{
+    background-color: #a1d6d6;
+}
+.secend{
+    background-color: darkkhaki;
+}
+.third{
+    background-color: #ad9eb8;
+}
+.skill{
+    background-color: ivory;
+}
+.botton{
+    background-color: royalblue;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+h1{
+    font-family: 'Pushster', cursive;
+}
